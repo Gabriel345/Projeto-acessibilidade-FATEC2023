@@ -1,0 +1,25 @@
+/* .botão-zoom {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  } */
+  
+  /* Estilo para os botões individuais */
+  .botão-zoom {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid #333;
+    background-color: #fff;
+    color: #333;
+  }
+  
+  /* Estilo para o botão de zoom in */
+  .aumentar-zoom {
+    border-radius: 5px 0 0 5px;
+  }
+  
+  /* Estilo para o botão de zoom out */
+  .diminuir-zoom {
+    border-radius: 0 5px 5px 0;
+  }
